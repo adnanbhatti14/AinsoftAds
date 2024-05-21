@@ -1,1 +1,1 @@
-package com.love.ainsoft.admobclass AdManager {    fun loadInterAd(key: String) {}    fun showInterAd() {}}
+package com.love.ainsoft.admobclass AdManager {    companion object{        fun loadInterAd(key: String) {}        fun showInterAd() {}    }}
